@@ -18,7 +18,12 @@ $Message = @{
     toRecipients = @(
         @{
             emailAddress = @{
-                address = "recipient@domain.com"
+                address = "recipient1@domain.com"
+            }
+        }
+        @{
+            emailAddress = @{
+                address = "recipient2@domain.com"
             }
         }
     )
